@@ -1,4 +1,3 @@
-package party;
 
 import java.util.HashMap;
 import java.util.Iterator;
