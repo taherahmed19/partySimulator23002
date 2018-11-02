@@ -1,4 +1,4 @@
-package PartyPackage;
+
 
 import java.util.Random;
 
